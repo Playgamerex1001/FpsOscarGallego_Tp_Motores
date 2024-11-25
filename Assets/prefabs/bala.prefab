@@ -146,4 +146,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b278817d0dd8cd0439243e098ec6e2ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sangre: {fileID: 6928722611674654893, guid: ec0b03a484917764a9ef584449db8f19, type: 3}
   damage: 25
